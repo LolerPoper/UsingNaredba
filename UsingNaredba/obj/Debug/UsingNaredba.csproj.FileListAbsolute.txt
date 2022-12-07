@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\bin\Debug\UsingNaredba.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\bin\Debug\UsingNaredba.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\bin\Debug\UsingNaredba.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\obj\Debug\UsingNaredba.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\obj\Debug\UsingNaredba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\obj\Debug\UsingNaredba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\obj\Debug\UsingNaredba.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\UsingNaredba\obj\Debug\UsingNaredba.pdb
